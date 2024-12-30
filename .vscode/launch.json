@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "exp://192.168.43.231:8082 ",
+            "request": "launch",
+            "url": "exp://192.168.43.231:8082 "
+        }
+    ]
+}
